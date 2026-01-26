@@ -15,6 +15,7 @@ A lightweight, Rust-based service registration and discovery system designed for
 - [Tech Stack](#tech-stack)
 - [Contributing](#contributing)
 - [License](#license)
+- [Support](#support)
 
 ## ✨ Features
 
