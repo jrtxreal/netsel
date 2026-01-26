@@ -4,18 +4,18 @@ A lightweight, Rust-based service registration and discovery system designed for
 
 ## 📋 Table of Contents
 
-- [Features](#features)
-- [How It Works](#how-it-works)
-- [Architecture](#architecture)
-- [Quick Start](#quick-start)
-- [Usage Examples](#usage-examples)
-- [Running Examples](#running-examples)
-- [Configuration](#configuration)
-- [Modules](#modules)
-- [Tech Stack](#tech-stack)
-- [Contributing](#contributing)
-- [License](#license)
-- [Support](#support)
+- [Features](#-features)
+- [How It Works](#-how-it-works)
+- [Architecture](#-architecture)
+- [Quick Start](#-quick-start)
+- [Usage Examples](#-usage-examples)
+- [Running Examples](#-running-examples)
+- [Configuration](#-configuration)
+- [Modules](#-modules)
+- [Tech Stack](#-tech-stack)
+- [Contributing](#-contributing)
+- [License](#-license)
+- [Support](#-support)
 
 ## ✨ Features
 
